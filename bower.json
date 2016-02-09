@@ -1,0 +1,6 @@
+{
+  "name": "middleman-base",
+  "devDependencies": {
+    "normalize.styl": "^3.0.3"
+  }
+}

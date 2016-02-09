@@ -6,20 +6,20 @@ compatible with Middleman 3.
 
 ## What's in it?
 
-The gems and plugins used in this are my personal preference, but they're
-just really cool in general.
+The gems and plugins used in this are my personal preference, but they're really
+cool.
 
-* #[gulp](https://github.com/gulpjs/gulp) by #[gulpjs](https://github.com/gulpjs/gulp) (The streaming build system)
-* #[poststylus](https://github.com/seaneking/poststylus) by #[seaneking](https://github.com/seaneking) (PostCSS adapter for Stylus)
-* #[gulp-stylus](https://github.com/stevelacy/gulp-stylus) by #[stevelacy](https://github.com/stevelacy) (Stylus plugin for gulp)
-* #[lost](https://github.com/peterramsing/lost) by #[peterramsing](https://github.com/peterramsing) (PostCSS fractional grid system)
-* #[autoprefixer](https://github.com/postcss/autoprefixer) by #[postcss](https://github.com/postcss) (Parse CSS and add vendor prefixes to rules)
-* #[gulp-cssnano](https://github.com/ben-eb/gulp-cssnano) by #[ben-eb](https://github.com/ben-eb) (Minify CSS with cssnano)
-* #[gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) by #[floridoo](https://github.com/floridoo) (Source map support for Gulp.js)
-* #[browser-sync](https://github.com/BrowserSync/browser-sync) by #[BrowserSync](https://github.com/BrowserSync) (Keep multiple browsers & devices in sync when building websites)
-* gulp integration through middleman's #[external asset pipeline](https://middlemanapp.com/advanced/external-pipeline)
-* #[bower](https://github.com/bower/bower) by #[bower](https://github.com/bower) (A package manager for the web)
-* #[normalize.styl](https://github.com/bymathias/normalize.styl) by #[bymathias](https://github.com/bymathias) (Stylus version of normalize.css)
+* [gulp](https://github.com/gulpjs/gulp) by [gulpjs](https://github.com/gulpjs/gulp) (The streaming build system)
+* [poststylus](https://github.com/seaneking/poststylus) by [seaneking](https://github.com/seaneking) (PostCSS adapter for Stylus)
+* [gulp-stylus](https://github.com/stevelacy/gulp-stylus) by [stevelacy](https://github.com/stevelacy) (Stylus plugin for gulp)
+* [lost](https://github.com/peterramsing/lost) by [peterramsing](https://github.com/peterramsing) (PostCSS fractional grid system)
+* [autoprefixer](https://github.com/postcss/autoprefixer) by [postcss](https://github.com/postcss) (Parse CSS and add vendor prefixes to rules)
+* [gulp-cssnano](https://github.com/ben-eb/gulp-cssnano) by [ben-eb](https://github.com/ben-eb) (Minify CSS with cssnano)
+* [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) by [floridoo](https://github.com/floridoo) (Source map support for Gulp.js)
+* [browser-sync](https://github.com/BrowserSync/browser-sync) by [BrowserSync](https://github.com/BrowserSync) (Keep multiple browsers & devices in sync when building websites)
+* gulp integration through middleman's [external asset pipeline](https://middlemanapp.com/advanced/external-pipeline)
+* [bower](https://github.com/bower/bower) by [bower](https://github.com/bower) (A package manager for the web)
+* [normalize.styl](https://github.com/bymathias/normalize.styl) by [bymathias](https://github.com/bymathias) (Stylus version of normalize.css)
 
 ## Usage with Middleman
 

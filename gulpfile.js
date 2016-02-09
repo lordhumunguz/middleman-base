@@ -40,7 +40,7 @@ gulp.task('browser-sync', function(){
 });
 
 // Watch task
-gulp.task('watch', ['browser-sync'], function() {
+gulp.task('watch', ['stylesheets', 'browser-sync'], function() {
   gulp.watch(paths.stylesheets, ['stylesheets']);
   gulp.watch(paths.views).on('change', browserSync.reload);
 });

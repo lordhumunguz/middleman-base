@@ -20,6 +20,9 @@ page '/*.txt', layout: false
 
 # General configuration
 
+# Ignore Stylus files as Gulp handles them
+ignore "*.styl"
+
 # External pipeline for gulp assets
 activate :external_pipeline,
   name: :gulp,

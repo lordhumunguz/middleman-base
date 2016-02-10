@@ -52,6 +52,3 @@ on the file again. Of course you may also just reload the page manually.
 
 * Views do not refresh properly after saving, the best solution is to manually
 reload the browser or save twice.
-
-* The original Stylus files are placed in the build directory after a build. You
-can safely ignore them, but it's an issue nonetheless.
